@@ -13,13 +13,13 @@ class BarmapartsService
      * Емейл от акк
      * @var string
      */
-    private $_email = 'pdavit@rambler.ru';
+    private $_email = '<YOUR EMAIL>';
 
     /**
      * Пароль к акк
      * @var string
      */
-    private $_password = 'miqvig';
+    private $_password = '<YOUR PASS>';
 
     /**
      * Урл сервиса
